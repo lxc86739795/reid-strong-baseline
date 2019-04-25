@@ -1,4 +1,4 @@
-# Experiment all tricks without center loss with re-ranking : 256x128-bs16x4-warmup10-erase0_5-labelsmooth_on-laststride1-bnneck_on-triplet_centerloss0_0005
+# Experiment all tricks with center loss with re-ranking : 256x128-bs16x4-warmup10-erase0_5-labelsmooth_on-laststride1-bnneck_on-triplet_centerloss0_0005
 # Dataset 1: market1501
 # imagesize: 256x128
 # batchsize: 16x4
